@@ -1,0 +1,9 @@
+[package]
+name = "forgetting-curve"
+version = "0.1.0"
+edition = "2021"
+description = "Ebbinghaus forgetting curve implementation with SM-2 spaced repetition scheduling and retention prediction"
+license = "MIT"
+repository = "https://github.com/SuperInstance/forgetting-curve"
+
+[dependencies]
